@@ -1,0 +1,23 @@
+.bg-aqua{
+    background-color:#30EDDA;
+}
+.form-control{
+    display:inline-block;
+    min-width:300px;
+}
+
+.search { 
+    position: relative; 
+    margin-top:20px;
+}
+
+.form-control + .icon-search { 
+    position: absolute;
+    right: 0;
+    padding: 4px 8px;
+  }
+
+  .col-xs-5{
+      min-width:300px;
+  }
+  
